@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">android_learn</string>
     <string name="next_page">Next Page</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="first_activity_back">返回</string>
 </resources>
